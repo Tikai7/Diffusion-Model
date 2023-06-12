@@ -1,3 +1,7 @@
+
+![Uploading ddpm-3.gif…]()
+![Uploading ddpm_4.gif…]()
+
 # ***Diffusion Model***
  - This is an simple implementation of a Diffusion model (Stable diffusion)
  in Tensorflow & Keras.
@@ -16,5 +20,6 @@
 
 # ***Result***
 - Here is the result after 300 epochs : 
-
+![plot](https://github.com/Tikai7/Diffusion-Model/assets/68500496/29c59161-30a5-49bb-bb9e-258560d44d58)
 - Here is an example of a generated emoji : 
+![Uploading generated_emojis.JPG…]()
