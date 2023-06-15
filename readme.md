@@ -1,6 +1,6 @@
 
-![Uploading ddpm-3.gif…]()
-![Uploading ddpm_4.gif…]()
+![ddpm_04](https://github.com/Tikai7/Diffusion-Model/assets/68500496/f145a11c-1399-48b1-9585-e7fb0592fc53)
+![ddpm_4](https://github.com/Tikai7/Diffusion-Model/assets/68500496/bdce727a-f6b3-4df9-b636-e0027fc8c3bb)
 
 # ***Diffusion Model***
  - This is an simple implementation of a Diffusion model (Stable diffusion)
@@ -22,4 +22,4 @@
 - Here is the result after 300 epochs : 
 ![plot](https://github.com/Tikai7/Diffusion-Model/assets/68500496/29c59161-30a5-49bb-bb9e-258560d44d58)
 - Here is an example of a generated emoji : 
-![Uploading generated_emojis.JPG…]()
+![generated_emojis](https://github.com/Tikai7/Diffusion-Model/assets/68500496/534dbbea-5305-4503-ae8a-9380515db9ee)
