@@ -1,6 +1,9 @@
 
 ![ddpm_04](https://github.com/Tikai7/Diffusion-Model/assets/68500496/f145a11c-1399-48b1-9585-e7fb0592fc53)
 ![ddpm_4](https://github.com/Tikai7/Diffusion-Model/assets/68500496/bdce727a-f6b3-4df9-b636-e0027fc8c3bb)
+![ddpm_8](https://github.com/Tikai7/Diffusion-Model/assets/68500496/741f5499-6ac7-49e9-b02f-c58be32e26af)
+![ddpm_013](https://github.com/Tikai7/Diffusion-Model/assets/68500496/22db5bd0-d311-4519-bfe4-7a368acbcf5e)
+![ddpm_014](https://github.com/Tikai7/Diffusion-Model/assets/68500496/ff2fee1c-b532-4ace-bb4b-4cf4463fb163)
 
 # ***Diffusion Model***
  - This is an simple implementation of a Diffusion model (Stable diffusion)
